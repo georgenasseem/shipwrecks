@@ -1,5 +1,5 @@
 function myFunction() {
-  if (window.pageYOffset >= 39) {
+  if (window.pageYOffset >= 1) {
     document.getElementById("navbar11").classList.add("sticky")
   } else {
     document.getElementById("navbar11").classList.remove("sticky");
