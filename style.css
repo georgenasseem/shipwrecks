@@ -217,6 +217,11 @@
   width: 100%;
 }
 
+.machine-img {
+  width: 80%;
+  padding-left: 250px;
+}
+
 .delivered-meals {
   display: flex;
   align-items: center;

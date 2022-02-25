@@ -236,3 +236,24 @@ body {
 strong {
   font-weight: 500;
 }
+
+.machine-subheading-big {
+  font-weight: 500;
+  color: rgb(181, 190, 238);
+  align-items: right;
+  letter-spacing: -0.5px;
+  font-size: 4rem;
+  line-height: 1.2; 
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.machine-subheading-small {
+  font-weight: 450;
+  color: rgb(181, 190, 238);
+  align-items: right;
+  letter-spacing: -0.5px;
+  font-size: 3rem;
+  line-height: 1.2; 
+  padding-left: 250px;
+  padding-right: 250px;
+}
