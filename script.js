@@ -1,5 +1,5 @@
 function myFunction() {
-  if (window.pageYOffset >= 1) {
+  if (window.pageYOffset >= 0) {
     document.getElementById("navbar11").classList.add("sticky")
   } else {
     document.getElementById("navbar11").classList.remove("sticky");
@@ -16,7 +16,7 @@ mainNavLinks.forEach(link => {
     let target = document.querySelector(event.target.hash);
     target.scrollIntoView({
       behavior: "smooth",
-      block: "start"
+         block: "start"
     });
   });
 });

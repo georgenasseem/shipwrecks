@@ -35,9 +35,7 @@ body {
 .grid {
   display: grid;
   column-gap: 6.4rem;
-  row-gap: 9.6rem;
-
-  /* margin-bottom: 9.6rem; */
+  row-gap: 45px;
 }
 
 /* .grid:last-child {
