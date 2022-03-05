@@ -55,18 +55,23 @@
 }
 
 .section-machine {
-  background-color: #021169;
+  background-color: #061466;
   padding: 9.6rem 0;
 }
 
 .section-references {
-  background-color: #080257;
+  background-color: #0b0463;
+  padding: 9.6rem 0;
+}
+
+.section-quiz {
+  background-color: rgb(2, 10, 75);
   padding: 9.6rem 0;
 }
 
 .footer {
   padding: 12.8rem 0;
-  background-color: rgb(2, 10, 75);
+  background-color: #070341 ;
 }
 
 /**************************/
